@@ -1,0 +1,7 @@
+.Home .jumbotron {
+  background: steelblue;
+}
+
+.Home a {
+  padding: 1rem 3rem !important;
+}

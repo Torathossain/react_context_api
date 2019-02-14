@@ -1,0 +1,7 @@
+.Dashboard .jumbotron {
+  background: darkcyan;
+}
+
+.Dashboard a {
+  padding: 1rem 3rem !important;
+}
